@@ -3,7 +3,7 @@
 ## Overview of the analysis 
 
 A prominent investment bank is interested in offering a new cryptocurrency investment portfolio for its customers. 
-The company, however, is lost in the vast universe of cryptocurrencies. So, the company would like to crate report 
+The company, however, is lost in the vast universe of cryptocurrencies. So, the company would like to create a report 
 that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification 
 system for this new investment.
 
@@ -17,7 +17,7 @@ The purpose of the analysis is to use unsupervised machine learning to process t
 
 ## Resources 
 
-Dataset: crypto_data.csv
+Dataset: crypto_data.csv,
 Python 3.7.6 and Anaconda 2020.11
 
 ## Results 
