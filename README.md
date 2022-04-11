@@ -9,7 +9,7 @@ system for this new investment.
 
 ## Purpose 
 
-The purpose of the analysis is to use unsupervised machine learning to process the cryptocurrency data.  
+The purpose of the analysis is to use unsupervised machine learning to process the cryptocurrency data:- 
 - To preprocess the data for PCA 
 - To reduce data dimensions using PCA
 - Clustering Cryptocurrencies Using K-means
