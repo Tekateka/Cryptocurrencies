@@ -14,12 +14,9 @@ The purpose of the analysis is to use unsupervised machine learning to process t
 - To reduce data dimensions using PCA
 - Clustering Cryptocurrencies Using K-means
 - Visualizing Cryptocurrencies with 3D and scatter plot. 
-
 ## Resources 
 
-Dataset: crypto_data.csv,
-Python 3.7.6 and Anaconda 2020.11
-
+Dataset: crypto_data.csv, Python 3.7.6 and Anaconda 2020.11
 ## Results 
 
 Using K-means algorithm an elbow curve was created to find the best value for k. 
